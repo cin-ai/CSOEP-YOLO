@@ -1,1 +1,1 @@
-# CSOES-YOLO
+# CSOEP-YOLO
